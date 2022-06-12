@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Weedings Package",
+        "price": "STARTING AT $2700",
+        "description": "Beginning at 6 hours coverage. Professional image processing. Online odering gallery",
+        "img": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Video Editing",
+        "price": "STARTING AT $1600",
+        "description": "Beginning at 30 minutes of coverage. Professional image processing. Online odering gallery",
+        "img": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Photo-Editing",
+        "price": "STARTING AT $800",
+        "description": "Beginning at 2 hours coverage. Professional image processing. Online odering gallery",
+        "img": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+   
+]
