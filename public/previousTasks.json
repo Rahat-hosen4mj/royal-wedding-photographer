@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Halima's Wedding",
+        "price": "STARTING AT $2700",
+        "description": "Beginning at 6 hours coverage. Professional image processing. Online odering gallery",
+        "img": "https://images.unsplash.com/photo-1591604466107-ec97de577aff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VkZGluZyUyMGNvdXBsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+        "id": 2,
+        "name": "Dola's Wedding",
+        "price": "STARTING AT $1600",
+        "description": "Beginning at 30 minutes of coverage. Professional image processing. Online odering gallery",
+        "img": "https://images.unsplash.com/photo-1616165415772-f5b95c3ae135?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2VkZGluZyUyMGNvdXBsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+        "id": 3,
+        "name": "Lemon's Wedding",
+        "price": "STARTING AT $800",
+        "description": "Beginning at 2 hours coverage. Professional image processing. Online odering gallery",
+        "img": "https://images.unsplash.com/photo-1621621667797-e06afc217fb0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d2VkZGluZyUyMGNvdXBsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    }
+   
+]
