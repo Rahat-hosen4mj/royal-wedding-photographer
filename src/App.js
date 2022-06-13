@@ -10,6 +10,8 @@ import Login from './Pages/Login/Login/Login';
 import Register from './Pages/Login/Register/Register';
 import Booking from './Pages/Booking/Booking/Booking';
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
+import About from './Pages/About/About';
+import Blog from './Pages/Blog/Blog';
 
 
 
@@ -22,7 +24,8 @@ function App() {
         <Route path='/' element={<Home />}></Route>
         <Route path='/home' element={<Home />}></Route>
       
-       
+        <Route path='/about' element={<About />}></Route>
+        <Route path='/blog' element={<Blog />}></Route>
         <Route path='/service/:serviceId' element={<ServiceDetail />}></Route>
         <Route path='/login' element={<Login />}></Route>
         <Route path='/register' element={<Register />}></Route>

@@ -6,7 +6,8 @@ const ServiceDetail = () => {
   return (
     <div>
       <h2>Welcome to service detail page</h2>
-      <p>Your service id number is : {serviceId}</p>
+      <h3>Service Details are now under constructing...!</h3>
+      <h3>But I can ensure that My Work will appriciate You</h3>
       <div>
         <Link to="/booking">
           <button className="btn btn-primary">Book Now</button>

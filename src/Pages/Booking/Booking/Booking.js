@@ -1,9 +1,12 @@
 import React from 'react';
+import thanYou from '../../../images/thankYou.png'
 
 const Booking = () => {
     return (
         <div>
-            <h2>This is booking page</h2>
+             <h1 >Booking Compleate</h1>
+           <img height={"500px"} src={thanYou} alt="" />
+           
         </div>
     );
 };
