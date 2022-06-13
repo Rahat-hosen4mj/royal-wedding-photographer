@@ -8,17 +8,17 @@
     },
     {
         "id": 2,
-        "name": "Video Editing",
+        "name": "Couple Package",
         "price": "STARTING AT $1600",
         "description": "Beginning at 30 minutes of coverage. Professional image processing. Online odering gallery",
-        "img": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        "img": "https://images.unsplash.com/photo-1643156703053-3f7bfbe9b00d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
         "id": 3,
-        "name": "Photo-Editing",
-        "price": "STARTING AT $800",
+        "name": "Pre-Wedding Package",
+        "price": "STARTING AT $1300",
         "description": "Beginning at 2 hours coverage. Professional image processing. Online odering gallery",
-        "img": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        "img": "https://images.unsplash.com/photo-1632294920473-322fc1740e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHByZXdlZGRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     }
    
 ]

@@ -18,9 +18,9 @@ const Banner = () => {
             src={banner1}
             alt="First slide"
           />
-          <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <Carousel.Caption className='text-info'>
+            <h3>Wedding Package</h3>
+            <p>Beginning at 6 hours coverage. Professional image processing</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -30,9 +30,9 @@ const Banner = () => {
             alt="Second slide"
           />
   
-          <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <Carousel.Caption className='text-info'>
+            <h3>Couple Package</h3>
+            <p>Beginning at 4 hours coverage. Professional image processing</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -42,9 +42,9 @@ const Banner = () => {
             alt="Second slide"
           />
   
-          <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <Carousel.Caption className='text-info'>
+            <h3>PreWedding Package</h3>
+            <p>Beginning at 2 hours coverage. Professional image processing</p>
           </Carousel.Caption>
         </Carousel.Item>
        
