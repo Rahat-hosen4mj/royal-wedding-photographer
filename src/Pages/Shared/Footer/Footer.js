@@ -6,6 +6,8 @@ const Footer = () => {
     return (
         <div>
             <p>@copy right {year}</p>
+           
+
         </div>
     );
 };
