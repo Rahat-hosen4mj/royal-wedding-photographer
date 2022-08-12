@@ -3,7 +3,7 @@ Click here for live site link [https://royal-wedding-photographer.web.app/](http
 
 ## Code link
 
-Click here for code link [https://github.com/programming-hero-web-course-4/independent-service-provider-Rahat-hosen4mj](https://github.com/programming-hero-web-course-4/independent-service-provider-Rahat-hosen4mj?fbclid=IwAR1M1WS2nSIEuzk10ksJFiBdxofeOsvrr8rXuPPpyHGQ0QeeWQRWMRxzAZ4).
+Click here for code link [https://github.com/Rahat-hosen4mj/royal-wedding-photographer](https://github.com/Rahat-hosen4mj/royal-wedding-photographer).
 
 ## technologies (frameworks, libraries) 
 * react router
